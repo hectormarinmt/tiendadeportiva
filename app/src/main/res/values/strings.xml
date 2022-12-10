@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tienda deportiva</string>
+
+    // Strings MainActivity
+    <string name="btn_init">HOME</string>
+
+    // Strings MainActivity2
+    <string name="btn_info_product1">INFO</string>
+    <string name="btn_info_product2">INFO</string>
+    <string name="btn_info_product3">INFO</string>
+    <string name="text_product1">Balón mundial 2022</string>
+    <string name="text_descripcion_balon">Original firmado por Messi</string>
+
+    <string name="text_product2">Balón mundial 2018</string>
+    <string name="text_descripcion_balon_2018">Original firmado por CR7</string>
+
+    <string name="text_product3">Balón mundial 2014</string>
+    <string name="text_descripcion_balon_2014">Original firmado por Kaká</string>
+
+    <string name="content_description_imagen_balon">Imagen del balón seleccionado</string>
+
+    <string name="text_title_home">Tienda</string>
+
+    // Strings MainActivity3
+    <string name="btn_info_product">VOLVER</string>
+</resources>
